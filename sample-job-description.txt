@@ -1,0 +1,32 @@
+Senior Full Stack Web3 Developer
+
+We are looking for a Senior Full Stack Developer with 5+ years of experience to join our blockchain team.
+
+Required Skills:
+- Frontend: React, TypeScript, Next.js, Tailwind CSS
+- Backend: Node.js, Express, PostgreSQL, MongoDB
+- DevOps: AWS, Docker, Kubernetes, CI/CD
+- Web3: Solidity, Wagmi, Viem, Smart Contracts, Merkle Trees
+
+Must Have:
+- 5+ years of professional development experience
+- Strong understanding of blockchain technology
+- Experience with DeFi protocols
+- Proficiency in TypeScript and React
+- Experience with REST and GraphQL APIs
+- Strong problem-solving skills
+
+Nice to Have:
+- Experience with Ethereum Layer 2 solutions (Arbitrum, Optimism)
+- Knowledge of NFT standards (ERC-721, ERC-1155)
+- Previous experience with staking mechanisms
+- Open source contributions
+- Experience with testing frameworks (Jest, Cypress)
+
+Salary Range: $100,000 - $150,000 USD
+
+Benefits:
+- Remote work options
+- Health insurance
+- Professional development budget
+- Flexible working hours
